@@ -1,0 +1,77 @@
+[
+  {
+    "level": "Level 1",
+    "drills": [
+      {
+        "drill_name": "Auf Ball tippeln",
+        "instruction_start": "00:23",
+        "instruction_end": "00:30"
+      },
+      {
+        "drill_name": "Innenseitenpässe pendeln",
+        "instruction_start": "00:47",
+        "instruction_end": "00:54"
+      },
+      {
+        "drill_name": "Ziehen-Vorlegen (links/rechts)",
+        "instruction_start": "01:14",
+        "instruction_end": "01:28"
+      },
+      {
+        "drill_name": "Schere (links/rechts)",
+        "instruction_start": "01:48",
+        "instruction_end": "02:05"
+      }
+    ]
+  },
+  {
+    "level": "Level 2",
+    "drills": [
+      {
+        "drill_name": "Hinter Standbein (links/rechts)",
+        "instruction_start": "02:33",
+        "instruction_end": "02:57"
+      },
+      {
+        "drill_name": "Ziehen-Fußwechsel",
+        "instruction_start": "03:17",
+        "instruction_end": "03:35"
+      },
+      {
+        "drill_name": "Übersteiger (links/rechts)",
+        "instruction_start": "03:56",
+        "instruction_end": "04:16"
+      },
+      {
+        "drill_name": "Außenseite, Innenseite",
+        "instruction_start": "04:37",
+        "instruction_end": "04:53"
+      }
+    ]
+  },
+  {
+    "level": "Level 3",
+    "drills": [
+      {
+        "drill_name": "Ziehen-zurück, Ziehen-Fußwechsel",
+        "instruction_start": "05:21",
+        "instruction_end": "05:52"
+      },
+      {
+        "drill_name": "Übersteiger mit 3x Innenseite",
+        "instruction_start": "06:14",
+        "instruction_end": "06:38"
+      },
+      {
+        "drill_name": "Hinten-rum, Ziehen-kappen, Ziehen-Fußwechsel",
+        "instruction_start": "06:56",
+        "instruction_end": "07:26"
+      },
+      {
+        "drill_name": "Ziehen-vorlegen, Ziehen-kappen, Ziehen-Fußwechsel, Ziehen-vorlegen",
+        "instruction_start": "07:46",
+        "instruction_end": "08:09"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "level": 1,
+  "drill": "Auf Ball tippeln",
+  "file": "l1-1-auf-ball-tippeln.mp4",
+  "seconds": 7
+ },
+ {
+  "level": 1,
+  "drill": "Innenseitenpässe pendeln",
+  "file": "l1-2-innenseitenpaesse-pendeln.mp4",
+  "seconds": 7
+ },
+ {
+  "level": 1,
+  "drill": "Ziehen-Vorlegen (links/rechts)",
+  "file": "l1-3-ziehen-vorlegen-links-rechts.mp4",
+  "seconds": 14
+ },
+ {
+  "level": 1,
+  "drill": "Schere (links/rechts)",
+  "file": "l1-4-schere-links-rechts.mp4",
+  "seconds": 17
+ },
+ {
+  "level": 2,
+  "drill": "Hinter Standbein (links/rechts)",
+  "file": "l2-1-hinter-standbein-links-rechts.mp4",
+  "seconds": 24
+ },
+ {
+  "level": 2,
+  "drill": "Ziehen-Fußwechsel",
+  "file": "l2-2-ziehen-fusswechsel.mp4",
+  "seconds": 18
+ },
+ {
+  "level": 2,
+  "drill": "Übersteiger (links/rechts)",
+  "file": "l2-3-uebersteiger-links-rechts.mp4",
+  "seconds": 20
+ },
+ {
+  "level": 2,
+  "drill": "Außenseite, Innenseite",
+  "file": "l2-4-aussenseite-innenseite.mp4",
+  "seconds": 16
+ },
+ {
+  "level": 3,
+  "drill": "Ziehen-zurück, Ziehen-Fußwechsel",
+  "file": "l3-1-ziehen-zurueck-ziehen-fusswechsel.mp4",
+  "seconds": 31
+ },
+ {
+  "level": 3,
+  "drill": "Übersteiger mit 3x Innenseite",
+  "file": "l3-2-uebersteiger-mit-3x-innenseite.mp4",
+  "seconds": 24
+ },
+ {
+  "level": 3,
+  "drill": "Hinten-rum, Ziehen-kappen, Ziehen-Fußwechsel",
+  "file": "l3-3-hinten-rum-ziehen-kappen-ziehen-fusswechsel.mp4",
+  "seconds": 30
+ },
+ {
+  "level": 3,
+  "drill": "Ziehen-vorlegen, Ziehen-kappen, Ziehen-Fußwechsel, Ziehen-vorlegen",
+  "file": "l3-4-ziehen-vorlegen-ziehen-kappen-ziehen-fusswechsel-ziehen-vorlegen.mp4",
+  "seconds": 23
+ }
+]

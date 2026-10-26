@@ -1,0 +1,8 @@
+{
+  "name": "Timer Machine",
+  "description": "Build step-by-step interval timers and run them.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
