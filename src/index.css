@@ -63,7 +63,7 @@ body {
 	@apply btn bg-ink text-white hover:bg-ink-hover;
 }
 @utility btn-ghost {
-	@apply btn text-accent hover:bg-surface;
+	@apply btn text-ink hover:text-accent hover:bg-surface;
 }
 @utility icon-btn {
 	@apply inline-grid size-12 place-items-center text-ink transition-colors hover:bg-surface disabled:text-subtle;
@@ -95,9 +95,7 @@ body {
 	--color-border: var(--border);
 	--color-destructive: var(--destructive);
 	--color-accent-foreground: var(--accent-foreground);
-	--color-accent: var(--accent);
 	--color-muted-foreground: var(--muted-foreground);
-	--color-muted: var(--muted);
 	--color-secondary-foreground: var(--secondary-foreground);
 	--color-secondary: var(--secondary);
 	--color-primary-foreground: var(--primary-foreground);
@@ -118,20 +116,20 @@ body {
 }
 
 :root {
-	--background: oklch(1 0 0);
-	--foreground: oklch(0.145 0 0);
-	--card: oklch(1 0 0);
-	--card-foreground: oklch(0.145 0 0);
-	--popover: oklch(1 0 0);
-	--popover-foreground: oklch(0.145 0 0);
+	--background: #ffffff;
+	--foreground: #161616;
+	--card: #ffffff;
+	--card-foreground: #161616;
+	--popover: #ffffff;
+	--popover-foreground: #161616;
 	--primary: #0f62fe;
 	--primary-foreground: #ffffff;
 	--secondary: #161616;
 	--secondary-foreground: #ffffff;
 	--muted: #f4f4f4;
 	--muted-foreground: #525252;
-	--accent: #f4f4f4;
-	--accent-foreground: #161616;
+	--accent: #0f62fe;
+	--accent-foreground: #ffffff;
 	--destructive: #da1e28;
 	--border: #e0e0e0;
 	--input: #e0e0e0;

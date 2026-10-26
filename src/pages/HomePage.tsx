@@ -106,7 +106,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
 						</p>
 						{offline.size < videoUrls.length && (
 							<button
-								className="btn-ghost shrink-0"
+								className="btn-ghost shrink-0 font-medium text-ink hover:text-accent"
 								disabled={downloading}
 								onClick={downloadAll}
 							>
